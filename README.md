@@ -39,7 +39,7 @@ image-clustering-lab/
 ├── README.md                     # Archivo de documentación del proyecto
 ├── requirements.txt             # Dependencias y bibliotecas necesarias para el proyecto
 └── .gitignore                    # Archivo para excluir archivos no deseados del control de versiones
-
+```
 
 ## Aplicar KMeans:
 
